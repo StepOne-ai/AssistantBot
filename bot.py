@@ -6,6 +6,11 @@ from typing import Union
 
 import asyncio
 
+# [main]
+#bot_token=7950853335:AAHeRh3wEi1oqd4SpQWQWz6F6oJ54usS_8Q
+#user=510443335
+
+
 from aiogram import Router, Bot, Dispatcher, F, types
 from aiogram.filters.command import Command
 import logging
